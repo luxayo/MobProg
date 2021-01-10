@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EzyFoodS</string>
+    <string name="drink1">Air Mineral</string>
+    <string name="drink2">Jus Apel</string>
+    <string name="drink3">Jus Mangga</string>
+    <string name="drink4">Jus Alpukat</string>
+    <string name="harga1">Rp 5.000,-</string>
+    <string name="harga2">Rp 10.000,-</string>
+    <string name="harga3">Rp 12.000,-</string>
+    <string name="harga4">Rp 15.000,-</string>
+    <string name="qty1">10</string>
+    <string name="qty2">10</string>
+    <string name="qty3">10</string>
+    <string name="qty4">10</string>
+    <string name="qty">In Stock :</string>
+    <string name="ordermore">Order More</string>
+    <string name="addchart">Add to Cart</string>
+    <string name="kosong">Cart still empty</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="baltotal">0</string>
+</resources>
